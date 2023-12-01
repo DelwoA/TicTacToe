@@ -1,8 +1,8 @@
 # TicTacToe
+This is a Tic-Tac-Toe game that is develoepd. This project has two parts. Part 1 is the game which internacts and runs on the console, Part 2 is a GUI verison of the game. 
 
 ### TicTacToe - Part 1
-Tic-Tac-Toe game developed in two parts, one being a console based interaction, the other being a GUI based interaction. The console based is developed to be played for two human players as input is taken for both sides of the game. The GUI based is developed to be played for both human against computer and human against human as well.
-
+The console based is developed to be played for two human players as input is taken for both sides of the game. 
 
 ### TicTac - Part 2
-A simple to-do application developed which supports Android and iOS platforms. This application enables users from entering information that needs to be done, then ticking them off ones done, afterwards if needed they can be deleted off the list as well.
+The GUI based is developed to be played for both human against computer and human against human. In the GUI verison, the user can click on the desiered box to play the game, thereby crosses or circles will be added onto the game board. 
